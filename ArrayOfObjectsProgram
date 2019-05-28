@@ -1,0 +1,8 @@
+/**
+ * Program to manage a student list of up to 100 students
+ * Data will be read from a file and stored in the student list
+ * User will be able to display the list, add a student, 
+ * update a student GPA, and re-save the student data to another file.
+ * 
+ * @author Bradley Yandell
+ */
